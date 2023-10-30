@@ -79,9 +79,4 @@ mod tests {
     fn test_find_height_of_third_tallest_person() {
         assert_eq!(Some(200), how_tall_is_the_third_tallest(&PEOPLES))
     }
-
-    #[test]
-    fn test_who_i() {
-        assert_eq!(Some(200), how_tall_is_the_third_tallest(&PEOPLES))
-    }
 }
