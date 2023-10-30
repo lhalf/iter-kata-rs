@@ -34,3 +34,5 @@ The names of the function might hold a hint as to the iterator method you might 
 ```bash
 cargo test
 ```
+
+## [Installing Rust](https://doc.rust-lang.org/cargo/getting-started/installation.html)
