@@ -28,3 +28,9 @@ fn sum_of(_values: &[i32]) -> i32 {
 ```
 
 The names of the function might hold a hint as to the iterator method you might consider using...
+
+## Running the tests
+
+```bash
+cargo test
+```
