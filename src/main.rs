@@ -30,6 +30,7 @@ fn how_tall_is_that_first_billy(_peoples: &[Person]) -> Option<u8> {
     todo!()
 }
 
+#[allow(unused_imports)]
 use itertools::Itertools;
 fn how_tall_is_the_third_tallest(_peoples: &[Person]) -> Option<u8> {
     todo!()
